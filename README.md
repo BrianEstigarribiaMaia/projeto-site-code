@@ -44,7 +44,7 @@ Utilizei a plataforma GitHub como meio de organizar os Códigos e compartilhar o
 <hr>
 
 <h3>Resultado:</h3>
+<br>
 <img src = "img/tela01.jpg" alt = "imagem home"/>
-  Home
+<br>
 <img src = "img/tela02.jpg" alt = "imagem cadastro"/>
-Formulario
